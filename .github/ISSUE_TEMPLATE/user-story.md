@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Features or requests to break into work tickets
-title: "[User Story] "
+title: ""
 labels: "User Story"
 assignees: ""
 ---
